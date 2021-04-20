@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526104013679",
+    "project_id": "linux-terminal-app-d046f",
+    "storage_bucket": "linux-terminal-app-d046f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526104013679:android:a40028e4a2bbe4d86b569a",
+        "android_client_info": {
+          "package_name": "com.siddhesh.linux_terminal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526104013679-ac5f6tbutk0jkmvd5q0emn9osd7gpo7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqfixDhd2y-X611d-dmQb5z5JAN_DEudo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526104013679-ac5f6tbutk0jkmvd5q0emn9osd7gpo7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
